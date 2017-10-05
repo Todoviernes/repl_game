@@ -1,11 +1,6 @@
-My REPL game was my first weekend project @Wynwood on my first week. 
-
-Here appply the concepts for the first week on Ruby.
-
-Variables
-Array and hash data types
-User-prompts
-Until loop
-if statement 
-
-The game its based on the Best Jobs For Every Personality Type
+# Santiago's Repl Game
+This was Santiago's repl game. It uses all of the
+Ruby concepts that we have learned. The game lets
+you see the best jobs for your personality type which
+it figures out based on the questions it asks you
+throughout the game
